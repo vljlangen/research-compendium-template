@@ -2,6 +2,8 @@
 
 This repository is an example template for organizing research projects. It is structured to help researchers store, analyze, and document their work in a standardized way, ensuring reproducibility and ease of collaboration.
 
+Please note that the `data/` folder is not included in the `.gitignore` file by default. If you have sensitive data, make sure to add relevant patterns to the `.gitignore` to avoid accidentally committing sensitive information.
+
 ## Repository Structure
 
 - **analysis/**: Directory for storing analysis scripts. These scripts should be used to process and analyze the data.
