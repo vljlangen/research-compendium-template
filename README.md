@@ -10,7 +10,7 @@ This repository is an example template for organizing research projects. It is s
   - `my_data.csv`: Example data file in CSV format. Replace or add your own raw data files here.
 - **.gitignore**: Specifies files and directories to be ignored by Git, ensuring that unnecessary or sensitive files are not included in the repository. This `.gitignore` file is tailored for R projects and may need adjustment based on your specific needs.
 - **DESCRIPTION**: Contains project metadata, including title, version, author, and a brief description of the project.
-- **LICENSE**: Contains the licensing terms for this repository. This project is licensed under the MIT License. When you fork this repository, you may edit the LICENSE file as needed to reflect your own licensing preferences.
+- **LICENSE**: Contains the licensing terms for this repository. This project is licensed under the MIT License. When you fork this repository, you may edit the `LICENSE` file as needed to reflect your own licensing preferences.
 - **README.md**: Provides a top-level overview of the repository's contents and a guide for users.
 
 
