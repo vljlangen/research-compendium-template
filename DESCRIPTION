@@ -1,0 +1,6 @@
+Title: Research Compendium Template
+Version: 0.1.0
+Author: Ville Langén
+Maintainer: Ville Langén
+Description: This repository provides a template for organizing research projects. It includes directories for storing raw data, analysis scripts, and documentation, promoting clarity and reproducibility in research.
+License: MIT
