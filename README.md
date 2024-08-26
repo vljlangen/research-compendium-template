@@ -9,7 +9,7 @@ This repository is an example template for organizing research projects. It is s
 - **data/**: Directory for storing raw data files. These files should remain unchanged after initial creation to preserve data integrity.
   - `my_data.csv`: Example data file in CSV format. Replace or add your own raw data files here.
 - **analysis/**: Directory for storing analysis scripts. These scripts should be used to process and analyze the data.
-  - `my_script.R`: Example R script for analyzing the data. Replace or add your own scripts as needed.
+  - `my_analysis.Rmd`: Example R Markdown script for analyzing the data. Replace or add your own scripts as needed.
 
 ## Getting Started
 
