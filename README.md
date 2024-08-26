@@ -18,7 +18,7 @@ This repository is an example template for organizing research projects. It is s
 
 1. **Clone the repository**: Start by cloning this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/ResearchCompendiumTemplate.git
+   git clone https://github.com/vljlangen/research-compendium-template.git
    ```
 2. **Add your data**: Place your raw data files in the `data/` directory.
 3. **Write your analysis scripts**: Add or modify scripts in the `analysis` directory to process your data.
